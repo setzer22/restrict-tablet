@@ -4,10 +4,10 @@ This python script allows you to interactively select a screen region and will r
 
 # Dependencies
 
-- xrandr
-- xinput 
-- slop (https://github.com/naelstrof/slop)
-- pymatrix (https://github.com/dmulholland/pymatrix)
+- **xrandr / xorg-xrandr**: Install with your distro's package manager
+- **xinput / xorg-xinput**: Install with your distro's package manager
+- **slop** (https://github.com/naelstrof/slop): Install with your distro's package manager
+- **pymatrix** (https://github.com/dmulholland/pymatrix): `sudo pip install pymatrix`
 
 # Install
 
